@@ -1,0 +1,32 @@
+@import 'input.css';
+
+[x-cloak] {
+    display: none !important;
+}
+
+.container {
+    max-width: 970px;
+}
+
+.text-vk {
+    color: rgb(42, 88, 133);
+}
+
+.text-icon-vk {
+    color: rgb(114, 147, 182);
+}
+
+.text-notice {
+    font-size: 0.6rem;
+    line-height: 0.75rem;
+}
+
+.text-drop {
+    font-size: 0.75rem;
+    line-height: 1rem;
+}
+
+.text-xx {
+    font-size: 0.8rem;
+}
+
